@@ -40,9 +40,10 @@
     "nombre": "Mi tutorial",
     "img": "imgs/star.png",
     "desc": "Aplicación de tutorial para temas interesantes.",
-    "archivo": "https://github.com/abelsolreyes-hash/digmar/releases/download/v1.0/app-release1.apk"
+    "archivo": "https://github.com/abelsolreyes-hash/digmar/releases/download/v1.0/app-release1.apk",
     "version": "1.0.0",
     "tam": "2 MB"
   }
 
 ]
+
