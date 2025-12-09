@@ -3,14 +3,14 @@
     "id": 1,
     "nombre": "Tutorial",
     "img": "imgs/log.png",
-    "desc": "Podras aprender sobre temas variados en la app.",
+    "desc": "Podrás aprender sobre temas variados en la app.",
     "archivo": "https://github.com/abelsolreyes-hash/digmar/releases/download/v1.0/app-release.apk",
     "version": "1.0.0",
     "tam": "7 MB"
   },
   {
     "id": 2,
-    "nombre": "Tutorial Movil",
+    "nombre": "Tutorial Móvil",
     "img": "imgs/icon2.png",
     "desc": "Aplicación de tutorial para temas interesantes.",
     "archivo": "https://github.com/abelsolreyes-hash/digmar/releases/download/v1.0/app-release.1.apk",
@@ -37,59 +37,11 @@
   },
   {
     "id": 5,
-    "nombre": "Mi tutorial",
+    "nombre": "Mi Tutorial",
     "img": "imgs/star.png",
     "desc": "Aplicación de tutorial para temas interesantes.",
     "archivo": "https://github.com/abelsolreyes-hash/digmar/releases/download/v1.0/app-release1.apk",
     "version": "1.0.0",
     "tam": "2 MB"
   }
-]
-[
-  {
-    "id": 1,
-    "nombre": "Tutorial",
-    "img": "imgs/log.png",
-    "desc": "Podras aprender sobre temas variados en la app.",
-    "archivo": "https://github.com/abelsolreyes-hash/digmar/releases/download/v1.0/app-release.apk",
-    "version": "1.0.0",
-    "tam": "7 MB"
-  },
-  {
-    "id": 2,
-    "nombre": "Tutorial Movil",
-    "img": "imgs/icon2.png",
-    "desc": "Aplicación de tutorial para temas interesantes.",
-    "archivo": "https://github.com/abelsolreyes-hash/digmar/releases/download/v1.0/app-release.1.apk",
-    "version": "1.0.0",
-    "tam": "7 MB"
-  },
-  {
-    "id": 3,
-    "nombre": "Tutorial App",
-    "img": "imgs/icon3.jpg",
-    "desc": "Aplicación de tutorial para temas interesantes.",
-    "archivo": "https://github.com/abelsolreyes-hash/digmar/releases/download/v1.0/tutorial.apk",
-    "version": "1.0.0",
-    "tam": "17 MB"
-  },
-  {
-    "id": 4,
-    "nombre": "App Tutorial",
-    "img": "imgs/star.png",
-    "desc": "Aplicación de tutorial para temas interesantes.",
-    "archivo": "https://github.com/abelsolreyes-hash/digmar/releases/download/v1.0/App.turorial.apk",
-    "version": "1.0.0",
-    "tam": "2 MB"
-  },
-  {
-    "id": 5,
-    "nombre": "Mi tutorial",
-    "img": "imgs/star.png",
-    "desc": "Aplicación de tutorial para temas interesantes.",
-    "archivo": "https://github.com/abelsolreyes-hash/digmar/releases/download/v1.0/app-release1.apk",
-    "version": "1.0.0",
-    "tam": "2 MB"
-  }
-
 ]
